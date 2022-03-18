@@ -2,6 +2,7 @@
 Use this inside "Apps script" in Google Docs, make sure to ad the youtube Data API in "services" 
 Youtube API general page: https://developers.google.com/youtube/v3/
 Youtube API documentation: https://developers.google.com/youtube/v3/docs
+Helpful youtube tutorial (his channel is awesome!): https://www.youtube.com/watch?v=zSgx8U16stk 
 */
 
 function YoutubeScraper() {
